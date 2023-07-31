@@ -7,7 +7,6 @@ using System.Diagnostics;
 using System.IO;
 using System.Text.RegularExpressions;
 
-
 namespace AnyPackage.Provider.Apt
 {
     [PackageProvider("Apt")]
